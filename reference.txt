@@ -1,0 +1,5 @@
+https://dev.to/spe_/debugging-next-js-applications-46b6
+
+- Browser DevTools Console is to debug Client Side Codes
+- Terminal / CLI is to debug Server Side Codes
+- Browser DevTools Sources is to trace the Codes that cause error
